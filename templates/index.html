@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Face Spoof Detection</title>
+</head>
+<body>
+    <h1>Face Spoof Detection</h1>
+    <img src="{{ url_for('video_feed') }}" width="600" height="400">
+    <form action="{{ url_for('capture') }}">
+        <button type="submit">Capture</button>
+    </form>
+</body>
+</html>
