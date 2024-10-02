@@ -11,7 +11,7 @@ This project aims to detect face spoofing attacks in real-time using advanced co
 ## Setup and Installation
 1. *Clone the Repository*:
     sh
-    git clone https://github.com/dead10GOD/AntiSpoofing.git
+    git clone https://github.com/dead10GOD/Anti_Spoofing_System.git
     cd AntiSpoofing
     
 2. *Install Dependencies*:
